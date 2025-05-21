@@ -49,7 +49,7 @@ The diagram below represents the core relational structure of the Point of Sale 
 
 ![Entity-Relationship Diagram](https://github.com/AshokVarma77/Point-of-Sales-System/blob/38ab753d1aa7b83e2c1798df4a338cc0c96eef24/Architecture.png)
 
-*(The ERD image `image_7c43df.png` should be placed in the root of your repository for the above link to work.)*
+
 
 **Key Relational Entities (MariaDB):**
 
